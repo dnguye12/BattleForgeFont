@@ -1,13 +1,13 @@
 @font-face {
     font-family: 'MyCustomFont';
-    src: url('https://github.com/dnguye12/BattleForgeFont/BF_Modernista-Light.ttf');
+    src: url('https://github.com/dnguye12/BattleForgeFont/blob/main/BF_Modernista-Light.ttf');
     font-weight: lighter;
     font-style: normal;
 }
 
 @font-face {
     font-family: 'MyCustomFont';
-    src: url('https://github.com/dnguye12/BattleForgeFont/BF_Modernista-Regular.ttf');
+    src: url('https://github.com/dnguye12/BattleForgeFont/blob/main/BF_Modernista-Regular.ttf');
     font-weight: normal;
     font-style: normal;
 }
@@ -15,7 +15,7 @@
 
 @font-face {
     font-family: 'MyCustomFont';
-    src: url('https://github.com/dnguye12/BattleForgeFont/BF_Modernista-Bold.ttf');
+    src: url('https://github.com/dnguye12/BattleForgeFont/blob/main/BF_Modernista-Bold.ttf');
     font-weight: bold;
     font-style: normal;
 }
